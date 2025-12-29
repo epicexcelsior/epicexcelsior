@@ -11,7 +11,7 @@ I am a software engineer with a passion for building immersive web experiences a
 - **Backend**: Node.js, Cloudflare Workers, Supabase (PostgreSQL), Docker
 - **Blockchain**: Solana, Anchor, Privy, Wallet Adapters
 ## 🏆 Featured Projects
-### [Pls Give](https://github.com/epicexcelsior/pls-give)
+### [Pls Give](https://github.com/epicexcelsior/pg-frontend)
 **Solana-based 3D Multiplayer Browser Game** | [plsgive.com](https://plsgive.com)
 - **Stack**: PlayCanvas, Colyseus, Solana, Helius, Supabase
 - **Features**: Real-time multiplayer, wallet login, on-chain donations.
@@ -21,8 +21,10 @@ I am a software engineer with a passion for building immersive web experiences a
   - ⚔️ **Colosseum Hackathon Competitor**
 ### [Seeker Eats](https://github.com/obamna1/seekereats-relay)
 **Food Delivery Platform** | [seekereats.app](https://seekereats.app)
-- **Stack**: Relay, GraphQL, React
+- **Stack**: React Native, Solana, Privy
 - **Description**: A modern food delivery application with real-time order tracking.
+- - **Achievements**: 
+  - 🏆 **MBC Student Hackathon Winner (3rd in Solana track)**
 ### [Become (Capstone)](https://github.com/Mechwarrior727/nextjs-capstone)
 **Personal Growth Platform**
 - **Stack**: React, Vercel, Supabase
