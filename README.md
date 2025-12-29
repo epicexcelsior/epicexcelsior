@@ -13,6 +13,7 @@ I am a software engineer with a passion for building immersive web experiences a
 ## 🏆 Featured Projects
 ### [Pls Give](https://github.com/epicexcelsior/pls-give)
 **Solana-based 3D Multiplayer Browser Game**
+- **Primary Repos**: [pg-frontend](https://github.com/epicexcelsior/pg-frontend) | [pg-colyseus](https://github.com/epicexcelsior/pg-colyseus)
 - **Stack**: PlayCanvas, Colyseus, Solana, Helius, Supabase
 - **Features**: Real-time multiplayer, wallet login, on-chain donations.
 - **Achievements**: 
