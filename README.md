@@ -11,16 +11,21 @@ I am a software engineer with a passion for building immersive web experiences a
 - **Backend**: Node.js, Cloudflare Workers, Supabase (PostgreSQL), Docker
 - **Blockchain**: Solana, Anchor, Privy, Wallet Adapters
 ## 🏆 Featured Projects
-### [Pls Give](https://github.com/epicexcelsior/pls-give)
-**Solana-based 3D Multiplayer Browser Game**
-- **Primary Repos**: [pg-frontend](https://github.com/epicexcelsior/pg-frontend) | [pg-colyseus](https://github.com/epicexcelsior/pg-colyseus)
+### [Pls Give](https://github.com/epicexcelsior/pg-frontend)
+**Solana-based 3D Multiplayer Browser Game** | [plsgive.com](https://plsgive.com)
 - **Stack**: PlayCanvas, Colyseus, Solana, Helius, Supabase
 - **Features**: Real-time multiplayer, wallet login, on-chain donations.
 - **Achievements**: 
   - 🏆 **OnionDAO Hackathon Winner**
   - 🏠 **mtnDAO Solana Builder Residency**
   - ⚔️ **Colosseum Hackathon Competitor**
-### [Become (Capstone)](https://github.com/epicexcelsior/capstone)
+### [Seeker Eats](https://github.com/obamna1/seekereats-relay)
+**Food Delivery Platform** | [seekereats.app](https://seekereats.app)
+- **Stack**: React Native, Solana, Privy
+- **Description**: A modern food delivery application with real-time order tracking.
+- - **Achievements**: 
+  - 🏆 **MBC Student Hackathon Winner (3rd in Solana track)**
+### [Become (Capstone)](https://github.com/Mechwarrior727/nextjs-capstone)
 **Personal Growth Platform**
 - **Stack**: React, Vercel, Supabase
 - **Description**: A structured platform designed to help users track personal growth and achieve goals.
