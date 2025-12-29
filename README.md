@@ -16,15 +16,15 @@ I am a software engineer with a passion for building immersive web experiences a
 - **Stack**: PlayCanvas, Colyseus, Solana, Helius, Supabase
 - **Features**: Real-time multiplayer, wallet login, on-chain donations.
 - **Achievements**: 
-  - 🏆 **OnionDAO Hackathon Winner**
-  - 🏠 **mtnDAO Solana Builder Residency**
-  - ⚔️ **Colosseum Hackathon Competitor**
+  - 🏆 OnionDAO Hackathon Winner
+  - 🏠 mtnDAO Solana Builder Residency
+  - ⚔️ Colosseum Hackathon Competitor
 ### [Seeker Eats](https://github.com/obamna1/seekereats-relay)
 **Food Delivery Platform** | [seekereats.app](https://seekereats.app)
-- **Stack**: React Native, Solana, Privy
+- **Stack**: React Native, Solana, Solana Mobile, Privy, Railway
 - **Description**: A modern food delivery application with real-time order tracking.
-- - **Achievements**: 
-  - 🏆 **MBC Student Hackathon Winner (3rd in Solana track)**
+- **Achievements**: 
+  - 🏆 MBC Student Hackathon Winner (3rd in Solana track)
 ### [Become (Capstone)](https://github.com/Mechwarrior727/nextjs-capstone)
 **Personal Growth Platform**
 - **Stack**: React, Vercel, Supabase
