@@ -15,7 +15,7 @@ I'm a software engineer based in Anchorage, Alaska, passionate about building pr
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I'm Building / Have Built
 
 ### [Pls Give](https://plsgive.com) — _Solana 3D Multiplayer Browser Game_
 
@@ -65,7 +65,7 @@ Tools            Git · Linux · VPS · CI/CD
 
 | When     | What                                                                 |
 | -------- | -------------------------------------------------------------------- |
-| Dec 2025 | 🎓 B.S. Computer Science — University of Alaska Anchorage (GPA 3.58) |
+| Dec 2025 | 🎓 B.S. Computer Science — University of Alaska Anchorage            |
 | Dec 2025 | ✈️ Breakpoint Travel Grant — College.xyz                             |
 | Dec 2025 | 🥉 3rd Place Solana Track — MBC Student Hackathon                    |
 | Aug 2025 | 🏔️ mtnDAO Solana Builder Residency                                   |
