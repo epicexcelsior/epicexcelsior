@@ -26,7 +26,6 @@ A real-time 3D multiplayer donation game built on Solana. Features wallet authen
 **Recognition:**
 
 - 🏆 **OnionDAO Hackathon Winner**
-- 🏔️ **mtnDAO Builder Residency**
 - ✈️ **Breakpoint Travel Grant** — College.xyz & MBC
 
 ### [Seeker Eats](https://seekereats.app) — _Crypto Food Delivery_
@@ -65,10 +64,11 @@ Tools            Git · Linux · VPS · CI/CD
 
 | When     | What                                                                 |
 | -------- | -------------------------------------------------------------------- |
+| Feb 2026 | 🏂 mtnDAO Solana Builder Residency                                   |
 | Dec 2025 | 🎓 B.S. Computer Science — University of Alaska Anchorage            |
 | Dec 2025 | ✈️ Breakpoint Travel Grant — College.xyz                             |
 | Dec 2025 | 🥉 3rd Place Solana Track — MBC Student Hackathon                    |
-| Aug 2025 | 🏔️ mtnDAO Solana Builder Residency                                   |
+| Aug 2025 | ⛰️ mtnDAO Solana Builder Residency                                   |
 | Jun 2025 | 🏆 OnionDAO Hackathon Winner                                         |
 | 2025     | ⚔️ Colosseum Hackathon Competitor (×2)                               |
 
