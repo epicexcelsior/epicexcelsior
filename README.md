@@ -8,21 +8,6 @@ full stack dev · solana builder · based in alaska
 
 ---
 
-### What I've been up to
-
-<a href="https://github.com/epicexcelsior">
-  <img src="https://ghchart.rshah.org/epicexcelsior" alt="GitHub contributions" width="100%" />
-</a>
-
-<br/>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=epicexcelsior&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent&text_color=888&icon_color=888" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=epicexcelsior&hide_border=true&theme=transparent&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" height="160" />
-</p>
-
----
-
 ### Projects
 
 **[Monolith](https://github.com/epicexcelsior/monolith)** — 3D tower game on Solana Mobile where every block is a real USDC stake. Blocks have living faces that evolve through tiers based on daily interaction, and neglected blocks can be reclaimed by other players. Built as a monorepo with Expo + React Three Fiber + Anchor + Colyseus.
@@ -40,6 +25,12 @@ full stack dev · solana builder · based in alaska
 **[Become](https://github.com/Mechwarrior727/nextjs-capstone)** — habit tracking app where you put USDC on the line. Miss your goal and your stake goes to the people who didn't. Senior capstone project using Google Fit for verification.
 
 `Next.js` `Anchor` `Privy` `Supabase` `Google Fit API`
+
+---
+
+<a href="https://github.com/epicexcelsior">
+  <img src="https://ghchart.rshah.org/epicexcelsior" alt="GitHub contributions" width="100%" />
+</a>
 
 ---
 
