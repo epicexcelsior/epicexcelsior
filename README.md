@@ -1,6 +1,6 @@
 # Hunter
 
-full stack dev · solana builder · based in alaska
+Full Stack Developer · Solana Builder · Based in Alaska
 
 [![Website](https://img.shields.io/badge/epicexcelsior.com-000?style=flat-square&logo=Safari&logoColor=white)](http://epicexcelsior.com)
 [![Twitter](https://img.shields.io/badge/@excelhtf-000?style=flat-square&logo=x&logoColor=white)](https://x.com/excelhtf)
@@ -8,18 +8,9 @@ full stack dev · solana builder · based in alaska
 
 ---
 
-### What I've been up to
-
 <a href="https://github.com/epicexcelsior">
   <img src="https://ghchart.rshah.org/epicexcelsior" alt="GitHub contributions" width="100%" />
 </a>
-
-<br/>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=epicexcelsior&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent&text_color=888&icon_color=888" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=epicexcelsior&hide_border=true&theme=transparent&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" height="160" />
-</p>
 
 ---
 
@@ -29,27 +20,27 @@ full stack dev · solana builder · based in alaska
 
 `TypeScript` `React Native` `Three.js` `Anchor/Rust` `Colyseus` `Supabase` `MWA` `SOAR` `Tapestry`
 
-**[Pls Give](https://plsgive.com)** — real-time 3D multiplayer donation game on Solana. Wallet auth, on-chain donations, and social mechanics that gamify generosity. Won the OnionDAO Hackathon and got a Breakpoint travel grant.
+**[Pls Give](https://plsgive.com)** — Real-time 3D multiplayer donation game on Solana. Wallet auth, on-chain donations, and social mechanics that gamify generosity. Won the OnionDAO Hackathon and got a Breakpoint travel grant.
 
 `PlayCanvas` `Colyseus` `Solana` `Helius` `Supabase` `Cloudflare Workers`
 
-**[Seeker Eats](https://seekereats.app)** — mobile app for ordering food and paying with USDC on Solana. Bridges crypto payments to real-world delivery through DoorDash Drive. 3rd place Solana Track at MBC Hackathon.
+**[Seeker Eats](https://seekereats.app)** — Mobile app for ordering food and paying with USDC on Solana. Bridges crypto payments to real-world delivery through DoorDash Drive. 3rd place Solana Track at MBC Hackathon.
 
 `React Native` `Solana` `Privy` `DoorDash Drive API` `Twilio`
 
-**[Become](https://github.com/Mechwarrior727/nextjs-capstone)** — habit tracking app where you put USDC on the line. Miss your goal and your stake goes to the people who didn't. Senior capstone project using Google Fit for verification.
+**[Become](https://github.com/Mechwarrior727/nextjs-capstone)** — Habit tracking app where you put USDC on the line. Miss your goal and your stake goes to the people who didn't. Senior capstone project using Google Fit for verification.
 
 `Next.js` `Anchor` `Privy` `Supabase` `Google Fit API`
 
 ---
 
-### Stuff I work with
+### Tech Stack
 
 ```
-languages     typescript · javascript · rust · python · c/c++ · sql
-frontend      react · next.js · react native · three.js · playcanvas
-backend       node.js · supabase · cloudflare workers · colyseus · docker
-blockchain    solana · anchor · mwa · privy · helius · web3.js
+Languages     TypeScript · JavaScript · Rust · Python · C/C++ · SQL
+Frontend      React · Next.js · React Native · Three.js · PlayCanvas
+Backend       Node.js · Supabase · Cloudflare Workers · Colyseus · Docker
+Blockchain    Solana · Anchor · MWA · Privy · Helius · Web3.js
 ```
 
 ---
@@ -62,4 +53,4 @@ blockchain    solana · anchor · mwa · privy · helius · web3.js
 - **Dec 2025** — 3rd Place Solana Track, MBC Hackathon
 - **Aug 2025** — mtnDAO Solana Builder Residency
 - **Jun 2025** — OnionDAO Hackathon Winner
-- Eagle Scout · Stand With Crypto Alaska founder
+- Eagle Scout · Stand With Crypto Alaska Founder
