@@ -1,0 +1,36 @@
+name: Update Commits Graph
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 3am UTC
+  workflow_dispatch: # allow manual trigger
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_commits_graph.py"
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate commits graph
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_USERNAME: epicexcelsior
+          OUTPUT_PATH: commits-graph.svg
+        run: python scripts/generate_commits_graph.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add commits-graph.svg
+          git diff --staged --quiet || (git commit -m "chore: update commits graph" && git push)
