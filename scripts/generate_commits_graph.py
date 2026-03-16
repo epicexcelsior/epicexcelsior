@@ -5,7 +5,7 @@ import json
 import os
 import subprocess
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 USERNAME = os.environ.get("GITHUB_USERNAME", "epicexcelsior")
 OUTPUT = os.environ.get("OUTPUT_PATH", "commits-graph.svg")
@@ -25,14 +25,13 @@ def graphql(query, token):
 
 def get_contributions(token):
     """Fetch daily contribution counts for every year since account creation."""
-    # Get account creation date
     resp = graphql(f'{{ user(login: "{USERNAME}") {{ createdAt }} }}', token)
     created = datetime.fromisoformat(resp["data"]["user"]["createdAt"].replace("Z", "+00:00"))
     start_year = created.year
     now = datetime.now(timezone.utc)
     end_year = now.year
 
-    daily = {}  # date_str -> commit_count
+    daily = {}
 
     for year in range(start_year, end_year + 1):
         fr = f"{year}-01-01T00:00:00Z"
@@ -79,13 +78,13 @@ def build_cumulative(daily):
 
 
 def generate_svg(cumulative):
-    """Generate a minimal, clean SVG line chart."""
+    """Generate a wide, interactive SVG line chart with hover tooltips."""
     if not cumulative:
         return "<svg></svg>"
 
-    # Chart dimensions
-    w, h = 480, 160
-    pad_l, pad_r, pad_t, pad_b = 48, 16, 28, 28
+    # Chart dimensions — wide to match contribution heatmap
+    w, h = 840, 180
+    pad_l, pad_r, pad_t, pad_b = 52, 20, 30, 32
     cw = w - pad_l - pad_r
     ch = h - pad_t - pad_b
 
@@ -100,42 +99,47 @@ def generate_svg(cumulative):
     def nice_ceil(n):
         if n <= 10:
             return 10
+        if n <= 50:
+            return (int(n / 10) + 1) * 10
         mag = 10 ** (len(str(int(n))) - 1)
         return int(((n / mag) + 0.9999) // 1) * mag
 
     v_ceil = nice_ceil(v_max)
 
-    def x(date):
+    def xpos(date):
         return pad_l + ((date - d_min).total_seconds() / d_range) * cw
 
-    def y(val):
+    def ypos(val):
         return pad_t + ch - (val / v_ceil) * ch
 
     # Build polyline points
-    points = " ".join(f"{x(d):.1f},{y(v):.1f}" for d, v in zip(dates, values))
+    points = " ".join(f"{xpos(d):.1f},{ypos(v):.1f}" for d, v in zip(dates, values))
 
-    # Area path (fill under the line)
-    area_pts = " ".join(f"L{x(d):.1f},{y(v):.1f}" for d, v in zip(dates, values))
-    area = f"M{x(dates[0]):.1f},{y(0):.1f} L{x(dates[0]):.1f},{y(values[0]):.1f} {area_pts[1:]} L{x(dates[-1]):.1f},{y(0):.1f} Z"
+    # Area path
+    area_pts = " ".join(f"L{xpos(d):.1f},{ypos(v):.1f}" for d, v in zip(dates, values))
+    area = (
+        f"M{xpos(dates[0]):.1f},{ypos(0):.1f} "
+        f"L{xpos(dates[0]):.1f},{ypos(values[0]):.1f} "
+        f"{area_pts[1:]} "
+        f"L{xpos(dates[-1]):.1f},{ypos(0):.1f} Z"
+    )
 
     # Y-axis grid lines and labels (4 divisions)
     grid_lines = ""
     for i in range(5):
         val = int(v_ceil * i / 4)
-        yy = y(val)
+        yy = ypos(val)
         dash = ' stroke-dasharray="3,3"' if i > 0 else ""
         grid_lines += f'  <line x1="{pad_l}" y1="{yy:.1f}" x2="{w - pad_r}" y2="{yy:.1f}" class="grid"{dash}/>\n'
-        grid_lines += f'  <text x="{pad_l - 6}" y="{yy + 3:.1f}" class="label" text-anchor="end">{val}</text>\n'
+        grid_lines += f'  <text x="{pad_l - 8}" y="{yy + 3:.1f}" class="label" text-anchor="end">{val:,}</text>\n'
 
-    # X-axis labels — pick ~4 evenly spaced year markers
+    # X-axis labels — year markers
     year_labels = ""
-    seen = set()
     all_years = sorted(set(d.year for d in dates))
-    # Show every year if few, else pick evenly spaced
-    if len(all_years) <= 6:
+    if len(all_years) <= 8:
         show_years = all_years
     else:
-        step = max(1, len(all_years) // 4)
+        step = max(1, len(all_years) // 6)
         show_years = all_years[::step]
         if all_years[-1] not in show_years:
             show_years.append(all_years[-1])
@@ -146,12 +150,54 @@ def generate_svg(cumulative):
             dt = d_min
         if dt > d_max:
             continue
-        xx = x(dt)
-        year_labels += f'  <text x="{xx:.1f}" y="{h - 6}" class="label" text-anchor="middle">{yr}</text>\n'
+        xx = xpos(dt)
+        year_labels += f'  <text x="{xx:.1f}" y="{h - 8}" class="label" text-anchor="middle">{yr}</text>\n'
 
-    # Last data point highlight
-    last_x, last_y = x(dates[-1]), y(values[-1])
-    total_label = f'  <text x="{last_x - 8:.1f}" y="{last_y - 8:.1f}" class="total">{values[-1]}</text>\n'
+    # Interactive hover dots — sample ~30-50 points along the timeline
+    # Use monthly snapshots for clean hover targets
+    hover_dots = ""
+    monthly = {}
+    for d_str, val in cumulative:
+        key = d_str[:7]  # YYYY-MM
+        monthly[key] = (d_str, val)  # last entry for each month wins
+
+    # Always include first and last
+    samples = [(cumulative[0][0], cumulative[0][1])]
+    for key in sorted(monthly.keys()):
+        d_str, val = monthly[key]
+        samples.append((d_str, val))
+    samples.append((cumulative[-1][0], cumulative[-1][1]))
+
+    # Deduplicate
+    seen = set()
+    unique_samples = []
+    for s in samples:
+        if s[0] not in seen:
+            seen.add(s[0])
+            unique_samples.append(s)
+
+    for d_str, val in unique_samples:
+        dt = datetime.strptime(d_str, "%Y-%m-%d")
+        cx = xpos(dt)
+        cy = ypos(val)
+        # Format date nicely
+        date_label = dt.strftime("%b %d, %Y")
+        hover_dots += (
+            f'  <circle cx="{cx:.1f}" cy="{cy:.1f}" r="10" class="hit"/>\n'
+            f'  <circle cx="{cx:.1f}" cy="{cy:.1f}" r="3" class="hover-dot">\n'
+            f'    <title>{date_label} — {val:,} commits</title>\n'
+            f'  </circle>\n'
+        )
+
+    # Last data point — always visible with total label
+    last_x, last_y = xpos(dates[-1]), ypos(values[-1])
+    # Position label to the left if near right edge
+    label_x = last_x - 10
+    label_y = last_y - 10
+    total_label = (
+        f'  <circle cx="{last_x:.1f}" cy="{last_y:.1f}" r="3.5" class="dot"/>\n'
+        f'  <text x="{label_x:.1f}" y="{label_y:.1f}" class="total">{values[-1]:,}</text>\n'
+    )
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" fill="none">
   <style>
@@ -161,6 +207,10 @@ def generate_svg(cumulative):
     .grid {{ stroke: #21262d; stroke-width: 1; }}
     .line {{ stroke: #58a6ff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; fill: none; }}
     .dot {{ fill: #58a6ff; }}
+    .hover-dot {{ fill: #58a6ff; opacity: 0; cursor: pointer; transition: opacity 0.15s; }}
+    .hover-dot:hover {{ opacity: 1; }}
+    .hit {{ fill: transparent; cursor: pointer; }}
+    .hit:hover + .hover-dot {{ opacity: 1; }}
     .area {{ fill: url(#areaGrad); }}
   </style>
   <defs>
@@ -170,7 +220,7 @@ def generate_svg(cumulative):
     </linearGradient>
   </defs>
 
-  <text x="{pad_l}" y="16" class="title">Cumulative Commits</text>
+  <text x="{pad_l}" y="18" class="title">Cumulative Commits</text>
 
 {grid_lines}
 {year_labels}
@@ -178,7 +228,7 @@ def generate_svg(cumulative):
   <path class="area" d="{area}"/>
   <polyline class="line" points="{points}"/>
 
-  <circle cx="{last_x:.1f}" cy="{last_y:.1f}" r="3" class="dot"/>
+{hover_dots}
 {total_label}
 </svg>"""
     return svg

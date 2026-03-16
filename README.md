@@ -12,7 +12,9 @@ Full Stack Developer · Solana Builder · Based in Alaska
   <img src="https://ghchart.rshah.org/epicexcelsior" alt="GitHub contributions" width="100%" />
 </a>
 
-<img src="commits-graph.svg" alt="Cumulative commits" width="480" />
+<a href="https://raw.githubusercontent.com/epicexcelsior/epicexcelsior/main/commits-graph.svg">
+  <img src="commits-graph.svg" alt="Cumulative commits" width="100%" />
+</a>
 
 ---
 
