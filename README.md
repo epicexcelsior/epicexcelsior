@@ -5,6 +5,7 @@ Full Stack Developer · Solana Builder · Based in Alaska
 [![Website](https://img.shields.io/badge/epicexcelsior.com-000?style=flat-square&logo=Safari&logoColor=white)](http://epicexcelsior.com)
 [![Twitter](https://img.shields.io/badge/@excelhtf-000?style=flat-square&logo=x&logoColor=white)](https://x.com/excelhtf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/htfleischhacker)
+[![Resume](https://img.shields.io/badge/Resume-000?style=flat-square&logo=readdotcv&logoColor=white)](http://epicexcelsior.com/resume)
 
 ---
 
