@@ -40,248 +40,248 @@
 
   <text x="70.0" y="186" class="label" text-anchor="middle">2021</text>
   <text x="202.3" y="186" class="label" text-anchor="middle">2022</text>
-  <text x="344.7" y="186" class="label" text-anchor="middle">2023</text>
-  <text x="487.0" y="186" class="label" text-anchor="middle">2024</text>
-  <text x="629.7" y="186" class="label" text-anchor="middle">2025</text>
-  <text x="772.0" y="186" class="label" text-anchor="middle">2026</text>
+  <text x="344.5" y="186" class="label" text-anchor="middle">2023</text>
+  <text x="486.8" y="186" class="label" text-anchor="middle">2024</text>
+  <text x="629.4" y="186" class="label" text-anchor="middle">2025</text>
+  <text x="771.7" y="186" class="label" text-anchor="middle">2026</text>
 
 
-  <path class="area" d="M60.0,160.0 L60.0,160.0 60.0,160.0 L182.1,159.7 L182.4,159.6 L183.6,159.5 L202.3,159.4 L202.7,159.0 L203.1,158.9 L203.5,158.6 L203.9,158.6 L204.3,158.4 L205.1,158.1 L205.4,157.9 L205.8,157.8 L206.2,157.7 L207.8,157.5 L208.2,157.5 L208.6,157.4 L212.5,157.3 L222.6,157.1 L276.0,157.1 L276.4,156.5 L278.0,156.4 L278.8,155.9 L284.6,155.8 L285.4,155.6 L285.8,155.4 L286.2,155.3 L286.9,155.1 L287.3,154.7 L287.7,154.0 L288.1,153.9 L289.7,153.6 L290.5,153.6 L292.4,153.4 L297.9,153.2 L308.4,153.0 L314.2,152.9 L317.0,152.8 L317.4,152.7 L317.8,152.5 L318.1,152.3 L319.3,151.8 L319.7,151.7 L320.1,151.7 L321.7,151.4 L322.0,151.1 L322.4,151.0 L322.8,150.4 L323.2,149.9 L323.6,149.7 L324.0,149.5 L324.8,149.4 L326.3,149.3 L330.6,149.1 L341.9,149.0 L342.3,148.7 L342.7,148.6 L346.6,148.0 L347.0,146.5 L348.2,146.3 L348.6,146.3 L350.5,146.1 L363.8,145.8 L364.2,145.7 L364.5,145.6 L365.3,145.4 L368.1,145.2 L368.8,144.9 L369.2,144.7 L371.2,144.6 L380.5,144.4 L572.4,144.3 L573.2,144.2 L573.9,144.1 L574.7,144.0 L575.1,143.9 L575.5,143.8 L575.9,143.8 L576.3,143.7 L580.2,143.6 L591.1,143.6 L594.2,143.5 L595.4,143.4 L597.7,143.4 L600.1,143.3 L600.5,143.2 L602.0,143.2 L603.2,143.1 L604.0,143.0 L632.8,143.0 L633.2,142.8 L634.0,142.8 L634.4,142.7 L635.6,142.5 L637.5,142.4 L643.0,142.3 L654.3,141.7 L654.7,141.5 L659.7,141.3 L660.1,141.2 L661.3,141.1 L662.9,140.9 L664.8,140.2 L665.2,138.4 L665.6,138.3 L667.9,138.2 L669.1,138.1 L669.5,138.0 L670.3,137.8 L673.4,137.7 L676.1,137.2 L678.1,136.7 L678.5,136.5 L679.6,136.2 L680.0,135.4 L680.4,135.2 L680.8,134.9 L681.2,134.7 L681.6,134.4 L682.3,133.9 L683.5,133.5 L697.6,133.3 L698.3,132.4 L706.9,132.2 L712.0,131.9 L714.3,131.9 L714.7,131.8 L717.1,131.7 L717.4,131.7 L717.8,131.6 L718.2,131.4 L718.6,131.1 L719.0,130.5 L719.4,130.4 L721.7,129.4 L722.1,129.3 L722.9,129.1 L725.6,128.8 L726.4,128.7 L726.8,128.5 L727.6,128.5 L728.0,128.0 L728.4,127.9 L729.1,127.8 L729.5,127.6 L729.9,127.6 L730.3,127.5 L731.9,127.1 L732.3,127.0 L732.7,126.8 L733.0,126.7 L733.4,126.6 L733.8,126.4 L735.0,126.1 L735.4,125.9 L735.8,125.8 L736.2,125.6 L736.6,125.2 L737.3,125.1 L737.7,124.4 L738.1,124.1 L738.5,122.8 L738.9,122.5 L739.3,122.2 L739.7,121.5 L740.1,121.4 L740.5,121.2 L740.8,121.1 L741.2,120.7 L743.2,120.0 L743.6,119.8 L744.0,119.2 L744.4,118.1 L744.7,118.0 L745.5,117.9 L745.9,116.9 L746.3,116.4 L746.7,116.3 L747.1,115.3 L747.9,115.0 L748.3,114.9 L748.6,114.8 L749.0,114.7 L749.4,114.6 L749.8,114.6 L751.4,114.4 L752.1,114.3 L752.5,113.8 L752.9,113.5 L754.1,113.5 L756.0,113.3 L758.4,113.1 L758.8,112.9 L759.2,112.9 L759.6,112.5 L759.9,111.6 L760.3,111.5 L760.7,111.4 L761.1,111.3 L761.5,111.1 L761.9,110.6 L766.2,110.5 L766.6,110.4 L770.1,109.9 L770.9,109.5 L771.3,109.4 L771.6,109.1 L772.0,109.0 L773.2,108.8 L773.6,107.9 L774.0,105.5 L774.4,103.5 L774.8,103.4 L775.2,103.1 L775.9,102.8 L776.3,102.5 L776.7,102.1 L777.5,102.0 L777.9,101.4 L778.3,101.3 L779.1,100.4 L779.4,100.3 L779.8,99.8 L780.2,99.5 L780.6,99.1 L781.0,99.0 L782.2,98.4 L782.6,98.1 L783.0,96.6 L783.3,94.4 L783.7,93.6 L784.1,92.6 L784.5,92.5 L784.9,92.1 L785.3,91.9 L785.7,91.4 L786.1,90.6 L786.5,90.6 L786.9,90.1 L787.2,90.0 L787.6,89.5 L788.0,89.0 L788.4,88.4 L788.8,87.8 L789.2,87.7 L789.6,87.5 L790.0,86.4 L790.4,84.4 L790.8,84.1 L791.5,83.7 L791.9,83.5 L792.3,83.4 L792.7,80.2 L793.1,78.8 L793.5,77.3 L793.9,76.8 L794.3,74.4 L794.7,74.1 L795.0,74.0 L795.4,73.5 L795.8,72.4 L796.2,70.4 L796.6,68.2 L797.0,68.1 L797.4,67.6 L798.2,67.5 L798.6,66.2 L798.9,65.2 L799.3,63.8 L799.7,63.6 L800.1,63.5 L800.5,61.4 L800.9,58.9 L801.3,57.8 L801.7,57.3 L802.1,56.6 L802.5,56.1 L802.8,56.0 L803.6,55.7 L804.0,55.3 L804.4,55.2 L804.8,55.1 L805.2,55.0 L806.4,55.0 L806.7,54.9 L807.5,54.8 L808.3,54.7 L808.7,54.6 L809.5,53.7 L809.9,53.1 L810.3,52.9 L812.6,52.8 L813.0,52.3 L813.4,52.2 L813.8,51.6 L814.2,51.6 L814.5,51.4 L814.9,51.3 L815.3,50.3 L815.7,49.4 L816.1,49.0 L816.5,47.0 L816.9,46.8 L817.7,46.7 L818.1,46.6 L819.2,46.4 L819.6,45.7 L820.0,45.5 L820.0,160.0 Z"/>
-  <polyline class="line" points="60.0,160.0 182.1,159.7 182.4,159.6 183.6,159.5 202.3,159.4 202.7,159.0 203.1,158.9 203.5,158.6 203.9,158.6 204.3,158.4 205.1,158.1 205.4,157.9 205.8,157.8 206.2,157.7 207.8,157.5 208.2,157.5 208.6,157.4 212.5,157.3 222.6,157.1 276.0,157.1 276.4,156.5 278.0,156.4 278.8,155.9 284.6,155.8 285.4,155.6 285.8,155.4 286.2,155.3 286.9,155.1 287.3,154.7 287.7,154.0 288.1,153.9 289.7,153.6 290.5,153.6 292.4,153.4 297.9,153.2 308.4,153.0 314.2,152.9 317.0,152.8 317.4,152.7 317.8,152.5 318.1,152.3 319.3,151.8 319.7,151.7 320.1,151.7 321.7,151.4 322.0,151.1 322.4,151.0 322.8,150.4 323.2,149.9 323.6,149.7 324.0,149.5 324.8,149.4 326.3,149.3 330.6,149.1 341.9,149.0 342.3,148.7 342.7,148.6 346.6,148.0 347.0,146.5 348.2,146.3 348.6,146.3 350.5,146.1 363.8,145.8 364.2,145.7 364.5,145.6 365.3,145.4 368.1,145.2 368.8,144.9 369.2,144.7 371.2,144.6 380.5,144.4 572.4,144.3 573.2,144.2 573.9,144.1 574.7,144.0 575.1,143.9 575.5,143.8 575.9,143.8 576.3,143.7 580.2,143.6 591.1,143.6 594.2,143.5 595.4,143.4 597.7,143.4 600.1,143.3 600.5,143.2 602.0,143.2 603.2,143.1 604.0,143.0 632.8,143.0 633.2,142.8 634.0,142.8 634.4,142.7 635.6,142.5 637.5,142.4 643.0,142.3 654.3,141.7 654.7,141.5 659.7,141.3 660.1,141.2 661.3,141.1 662.9,140.9 664.8,140.2 665.2,138.4 665.6,138.3 667.9,138.2 669.1,138.1 669.5,138.0 670.3,137.8 673.4,137.7 676.1,137.2 678.1,136.7 678.5,136.5 679.6,136.2 680.0,135.4 680.4,135.2 680.8,134.9 681.2,134.7 681.6,134.4 682.3,133.9 683.5,133.5 697.6,133.3 698.3,132.4 706.9,132.2 712.0,131.9 714.3,131.9 714.7,131.8 717.1,131.7 717.4,131.7 717.8,131.6 718.2,131.4 718.6,131.1 719.0,130.5 719.4,130.4 721.7,129.4 722.1,129.3 722.9,129.1 725.6,128.8 726.4,128.7 726.8,128.5 727.6,128.5 728.0,128.0 728.4,127.9 729.1,127.8 729.5,127.6 729.9,127.6 730.3,127.5 731.9,127.1 732.3,127.0 732.7,126.8 733.0,126.7 733.4,126.6 733.8,126.4 735.0,126.1 735.4,125.9 735.8,125.8 736.2,125.6 736.6,125.2 737.3,125.1 737.7,124.4 738.1,124.1 738.5,122.8 738.9,122.5 739.3,122.2 739.7,121.5 740.1,121.4 740.5,121.2 740.8,121.1 741.2,120.7 743.2,120.0 743.6,119.8 744.0,119.2 744.4,118.1 744.7,118.0 745.5,117.9 745.9,116.9 746.3,116.4 746.7,116.3 747.1,115.3 747.9,115.0 748.3,114.9 748.6,114.8 749.0,114.7 749.4,114.6 749.8,114.6 751.4,114.4 752.1,114.3 752.5,113.8 752.9,113.5 754.1,113.5 756.0,113.3 758.4,113.1 758.8,112.9 759.2,112.9 759.6,112.5 759.9,111.6 760.3,111.5 760.7,111.4 761.1,111.3 761.5,111.1 761.9,110.6 766.2,110.5 766.6,110.4 770.1,109.9 770.9,109.5 771.3,109.4 771.6,109.1 772.0,109.0 773.2,108.8 773.6,107.9 774.0,105.5 774.4,103.5 774.8,103.4 775.2,103.1 775.9,102.8 776.3,102.5 776.7,102.1 777.5,102.0 777.9,101.4 778.3,101.3 779.1,100.4 779.4,100.3 779.8,99.8 780.2,99.5 780.6,99.1 781.0,99.0 782.2,98.4 782.6,98.1 783.0,96.6 783.3,94.4 783.7,93.6 784.1,92.6 784.5,92.5 784.9,92.1 785.3,91.9 785.7,91.4 786.1,90.6 786.5,90.6 786.9,90.1 787.2,90.0 787.6,89.5 788.0,89.0 788.4,88.4 788.8,87.8 789.2,87.7 789.6,87.5 790.0,86.4 790.4,84.4 790.8,84.1 791.5,83.7 791.9,83.5 792.3,83.4 792.7,80.2 793.1,78.8 793.5,77.3 793.9,76.8 794.3,74.4 794.7,74.1 795.0,74.0 795.4,73.5 795.8,72.4 796.2,70.4 796.6,68.2 797.0,68.1 797.4,67.6 798.2,67.5 798.6,66.2 798.9,65.2 799.3,63.8 799.7,63.6 800.1,63.5 800.5,61.4 800.9,58.9 801.3,57.8 801.7,57.3 802.1,56.6 802.5,56.1 802.8,56.0 803.6,55.7 804.0,55.3 804.4,55.2 804.8,55.1 805.2,55.0 806.4,55.0 806.7,54.9 807.5,54.8 808.3,54.7 808.7,54.6 809.5,53.7 809.9,53.1 810.3,52.9 812.6,52.8 813.0,52.3 813.4,52.2 813.8,51.6 814.2,51.6 814.5,51.4 814.9,51.3 815.3,50.3 815.7,49.4 816.1,49.0 816.5,47.0 816.9,46.8 817.7,46.7 818.1,46.6 819.2,46.4 819.6,45.7 820.0,45.5"/>
+  <path class="area" d="M60.0,160.0 L60.0,160.0 60.0,160.0 L182.0,159.7 L182.4,159.6 L183.5,159.5 L202.3,159.4 L202.6,159.0 L203.0,158.9 L203.4,158.6 L203.8,158.6 L204.2,158.4 L205.0,158.1 L205.4,157.9 L205.8,157.8 L206.2,157.7 L207.7,157.5 L208.1,157.5 L208.5,157.4 L212.4,157.3 L222.5,157.1 L275.9,157.1 L276.3,156.5 L277.9,156.4 L278.6,155.9 L284.5,155.8 L285.3,155.6 L285.7,155.4 L286.1,155.3 L286.8,155.1 L287.2,154.7 L287.6,154.0 L288.0,153.9 L289.6,153.6 L290.3,153.6 L292.3,153.4 L297.7,153.2 L308.3,153.0 L314.1,152.9 L316.8,152.8 L317.2,152.7 L317.6,152.5 L318.0,152.3 L319.2,151.8 L319.6,151.7 L320.0,151.7 L321.5,151.4 L321.9,151.1 L322.3,151.0 L322.7,150.4 L323.1,149.9 L323.5,149.7 L323.9,149.5 L324.6,149.4 L326.2,149.3 L330.5,149.1 L341.8,149.0 L342.2,148.7 L342.6,148.6 L346.5,148.0 L346.9,146.5 L348.0,146.3 L348.4,146.3 L350.4,146.1 L363.6,145.8 L364.0,145.7 L364.4,145.6 L365.2,145.4 L367.9,145.2 L368.7,144.9 L369.1,144.7 L371.0,144.6 L380.4,144.4 L572.1,144.3 L572.9,144.2 L573.7,144.1 L574.5,144.0 L574.9,143.9 L575.2,143.8 L575.6,143.8 L576.0,143.7 L579.9,143.6 L590.8,143.6 L593.9,143.5 L595.1,143.4 L597.5,143.4 L599.8,143.3 L600.2,143.2 L601.7,143.2 L602.9,143.1 L603.7,143.0 L632.5,143.0 L632.9,142.8 L633.7,142.8 L634.1,142.7 L635.3,142.5 L637.2,142.4 L642.7,142.3 L654.0,141.7 L654.4,141.5 L659.4,141.3 L659.8,141.2 L661.0,141.1 L662.5,140.9 L664.5,140.2 L664.9,138.4 L665.3,138.3 L667.6,138.2 L668.8,138.1 L669.2,138.0 L669.9,137.8 L673.1,137.7 L675.8,137.2 L677.7,136.7 L678.1,136.5 L679.3,136.2 L679.7,135.4 L680.1,135.2 L680.5,134.9 L680.9,134.7 L681.3,134.4 L682.0,133.9 L683.2,133.5 L697.2,133.3 L698.0,132.4 L706.6,132.2 L711.7,131.9 L714.0,131.9 L714.4,131.8 L716.7,131.7 L717.1,131.7 L717.5,131.6 L717.9,131.4 L718.3,131.1 L718.7,130.5 L719.1,130.4 L721.4,129.4 L721.8,129.3 L722.6,129.1 L725.3,128.8 L726.1,128.7 L726.5,128.5 L727.2,128.5 L727.6,128.0 L728.0,127.9 L728.8,127.8 L729.2,127.6 L729.6,127.6 L730.0,127.5 L731.5,127.1 L731.9,127.0 L732.3,126.8 L732.7,126.7 L733.1,126.6 L733.5,126.4 L734.6,126.1 L735.0,125.9 L735.4,125.8 L735.8,125.6 L736.2,125.2 L737.0,125.1 L737.4,124.4 L737.8,124.1 L738.2,122.8 L738.5,122.5 L738.9,122.2 L739.3,121.5 L739.7,121.4 L740.1,121.2 L740.5,121.1 L740.9,120.7 L742.8,120.0 L743.2,119.8 L743.6,119.2 L744.0,118.1 L744.4,118.0 L745.2,117.9 L745.6,116.9 L745.9,116.4 L746.3,116.3 L746.7,115.3 L747.5,115.0 L747.9,114.9 L748.3,114.8 L748.7,114.7 L749.1,114.6 L749.5,114.6 L751.0,114.4 L751.8,114.3 L752.2,113.8 L752.6,113.5 L753.7,113.5 L755.7,113.3 L758.0,113.1 L758.4,112.9 L758.8,112.9 L759.2,112.5 L759.6,111.6 L760.0,111.5 L760.4,111.4 L760.8,111.3 L761.1,111.1 L761.5,110.6 L765.8,110.5 L766.2,110.4 L769.7,109.9 L770.5,109.5 L770.9,109.4 L771.3,109.1 L771.7,109.0 L772.8,108.8 L773.2,107.9 L773.6,105.5 L774.0,103.5 L774.4,103.4 L774.8,103.1 L775.6,102.8 L776.0,102.5 L776.3,102.1 L777.1,102.0 L777.5,101.4 L777.9,101.3 L778.7,100.4 L779.1,100.3 L779.5,99.8 L779.9,99.5 L780.2,99.1 L780.6,99.0 L781.8,98.4 L782.2,98.1 L782.6,96.6 L783.0,94.4 L783.4,93.6 L783.8,92.6 L784.1,92.5 L784.5,92.1 L784.9,91.9 L785.3,91.4 L785.7,90.6 L786.1,90.6 L786.5,90.1 L786.9,90.0 L787.3,89.5 L787.7,89.0 L788.0,88.4 L788.4,87.8 L788.8,87.7 L789.2,87.5 L789.6,86.4 L790.0,84.4 L790.4,84.1 L791.2,83.7 L791.5,83.5 L791.9,83.4 L792.3,80.2 L792.7,78.8 L793.1,77.3 L793.5,76.8 L793.9,74.4 L794.3,74.1 L794.7,74.0 L795.1,73.5 L795.4,72.4 L795.8,70.4 L796.2,68.2 L796.6,68.1 L797.0,67.6 L797.8,67.5 L798.2,66.2 L798.6,65.2 L799.0,63.8 L799.3,63.6 L799.7,63.5 L800.1,61.4 L800.5,58.9 L800.9,57.8 L801.3,57.3 L801.7,56.6 L802.1,56.1 L802.5,56.0 L803.2,55.7 L803.6,55.3 L804.0,55.2 L804.4,55.1 L804.8,55.0 L806.0,55.0 L806.4,54.9 L807.1,54.8 L807.9,54.7 L808.3,54.6 L809.1,53.7 L809.5,53.1 L809.9,52.9 L812.2,52.8 L812.6,52.3 L813.0,52.2 L813.4,51.6 L813.8,51.6 L814.2,51.4 L814.5,51.3 L814.9,50.3 L815.3,49.4 L815.7,49.0 L816.1,47.0 L816.5,46.8 L817.3,46.7 L817.7,46.6 L818.8,46.4 L819.2,45.7 L819.6,45.5 L820.0,45.4 L820.0,160.0 Z"/>
+  <polyline class="line" points="60.0,160.0 182.0,159.7 182.4,159.6 183.5,159.5 202.3,159.4 202.6,159.0 203.0,158.9 203.4,158.6 203.8,158.6 204.2,158.4 205.0,158.1 205.4,157.9 205.8,157.8 206.2,157.7 207.7,157.5 208.1,157.5 208.5,157.4 212.4,157.3 222.5,157.1 275.9,157.1 276.3,156.5 277.9,156.4 278.6,155.9 284.5,155.8 285.3,155.6 285.7,155.4 286.1,155.3 286.8,155.1 287.2,154.7 287.6,154.0 288.0,153.9 289.6,153.6 290.3,153.6 292.3,153.4 297.7,153.2 308.3,153.0 314.1,152.9 316.8,152.8 317.2,152.7 317.6,152.5 318.0,152.3 319.2,151.8 319.6,151.7 320.0,151.7 321.5,151.4 321.9,151.1 322.3,151.0 322.7,150.4 323.1,149.9 323.5,149.7 323.9,149.5 324.6,149.4 326.2,149.3 330.5,149.1 341.8,149.0 342.2,148.7 342.6,148.6 346.5,148.0 346.9,146.5 348.0,146.3 348.4,146.3 350.4,146.1 363.6,145.8 364.0,145.7 364.4,145.6 365.2,145.4 367.9,145.2 368.7,144.9 369.1,144.7 371.0,144.6 380.4,144.4 572.1,144.3 572.9,144.2 573.7,144.1 574.5,144.0 574.9,143.9 575.2,143.8 575.6,143.8 576.0,143.7 579.9,143.6 590.8,143.6 593.9,143.5 595.1,143.4 597.5,143.4 599.8,143.3 600.2,143.2 601.7,143.2 602.9,143.1 603.7,143.0 632.5,143.0 632.9,142.8 633.7,142.8 634.1,142.7 635.3,142.5 637.2,142.4 642.7,142.3 654.0,141.7 654.4,141.5 659.4,141.3 659.8,141.2 661.0,141.1 662.5,140.9 664.5,140.2 664.9,138.4 665.3,138.3 667.6,138.2 668.8,138.1 669.2,138.0 669.9,137.8 673.1,137.7 675.8,137.2 677.7,136.7 678.1,136.5 679.3,136.2 679.7,135.4 680.1,135.2 680.5,134.9 680.9,134.7 681.3,134.4 682.0,133.9 683.2,133.5 697.2,133.3 698.0,132.4 706.6,132.2 711.7,131.9 714.0,131.9 714.4,131.8 716.7,131.7 717.1,131.7 717.5,131.6 717.9,131.4 718.3,131.1 718.7,130.5 719.1,130.4 721.4,129.4 721.8,129.3 722.6,129.1 725.3,128.8 726.1,128.7 726.5,128.5 727.2,128.5 727.6,128.0 728.0,127.9 728.8,127.8 729.2,127.6 729.6,127.6 730.0,127.5 731.5,127.1 731.9,127.0 732.3,126.8 732.7,126.7 733.1,126.6 733.5,126.4 734.6,126.1 735.0,125.9 735.4,125.8 735.8,125.6 736.2,125.2 737.0,125.1 737.4,124.4 737.8,124.1 738.2,122.8 738.5,122.5 738.9,122.2 739.3,121.5 739.7,121.4 740.1,121.2 740.5,121.1 740.9,120.7 742.8,120.0 743.2,119.8 743.6,119.2 744.0,118.1 744.4,118.0 745.2,117.9 745.6,116.9 745.9,116.4 746.3,116.3 746.7,115.3 747.5,115.0 747.9,114.9 748.3,114.8 748.7,114.7 749.1,114.6 749.5,114.6 751.0,114.4 751.8,114.3 752.2,113.8 752.6,113.5 753.7,113.5 755.7,113.3 758.0,113.1 758.4,112.9 758.8,112.9 759.2,112.5 759.6,111.6 760.0,111.5 760.4,111.4 760.8,111.3 761.1,111.1 761.5,110.6 765.8,110.5 766.2,110.4 769.7,109.9 770.5,109.5 770.9,109.4 771.3,109.1 771.7,109.0 772.8,108.8 773.2,107.9 773.6,105.5 774.0,103.5 774.4,103.4 774.8,103.1 775.6,102.8 776.0,102.5 776.3,102.1 777.1,102.0 777.5,101.4 777.9,101.3 778.7,100.4 779.1,100.3 779.5,99.8 779.9,99.5 780.2,99.1 780.6,99.0 781.8,98.4 782.2,98.1 782.6,96.6 783.0,94.4 783.4,93.6 783.8,92.6 784.1,92.5 784.5,92.1 784.9,91.9 785.3,91.4 785.7,90.6 786.1,90.6 786.5,90.1 786.9,90.0 787.3,89.5 787.7,89.0 788.0,88.4 788.4,87.8 788.8,87.7 789.2,87.5 789.6,86.4 790.0,84.4 790.4,84.1 791.2,83.7 791.5,83.5 791.9,83.4 792.3,80.2 792.7,78.8 793.1,77.3 793.5,76.8 793.9,74.4 794.3,74.1 794.7,74.0 795.1,73.5 795.4,72.4 795.8,70.4 796.2,68.2 796.6,68.1 797.0,67.6 797.8,67.5 798.2,66.2 798.6,65.2 799.0,63.8 799.3,63.6 799.7,63.5 800.1,61.4 800.5,58.9 800.9,57.8 801.3,57.3 801.7,56.6 802.1,56.1 802.5,56.0 803.2,55.7 803.6,55.3 804.0,55.2 804.4,55.1 804.8,55.0 806.0,55.0 806.4,54.9 807.1,54.8 807.9,54.7 808.3,54.6 809.1,53.7 809.5,53.1 809.9,52.9 812.2,52.8 812.6,52.3 813.0,52.2 813.4,51.6 813.8,51.6 814.2,51.4 814.5,51.3 814.9,50.3 815.3,49.4 815.7,49.0 816.1,47.0 816.5,46.8 817.3,46.7 817.7,46.6 818.8,46.4 819.2,45.7 819.6,45.5 820.0,45.4"/>
 
   <g class="hoverpoint">
-    <line x1="183.6" y1="30" x2="183.6" y2="160.0" class="guide"/>
-    <circle cx="183.6" cy="159.5" r="16" class="hit"/>
-    <circle cx="183.6" cy="159.5" r="4" class="hover-dot"><title>Nov 2021: 7 total (+7 this month)</title></circle>
-    <rect x="113.6" y="133.5" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="183.6" y="147.5" class="tooltip-text" text-anchor="middle">Nov 2021: 7 total (+7 this month)</text>
+    <line x1="183.5" y1="30" x2="183.5" y2="160.0" class="guide"/>
+    <circle cx="183.5" cy="159.5" r="16" class="hit"/>
+    <circle cx="183.5" cy="159.5" r="4" class="hover-dot"><title>Nov 2021: 7 total (+7 this month)</title></circle>
+    <rect x="113.5" y="133.5" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="183.5" y="147.5" class="tooltip-text" text-anchor="middle">Nov 2021: 7 total (+7 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="212.5" y1="30" x2="212.5" y2="160.0" class="guide"/>
-    <circle cx="212.5" cy="157.3" r="16" class="hit"/>
-    <circle cx="212.5" cy="157.3" r="4" class="hover-dot"><title>Jan 2022: 41 total (+34 this month)</title></circle>
-    <rect x="142.5" y="131.3" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="212.5" y="145.3" class="tooltip-text" text-anchor="middle">Jan 2022: 41 total (+34 this month)</text>
+    <line x1="212.4" y1="30" x2="212.4" y2="160.0" class="guide"/>
+    <circle cx="212.4" cy="157.3" r="16" class="hit"/>
+    <circle cx="212.4" cy="157.3" r="4" class="hover-dot"><title>Jan 2022: 41 total (+34 this month)</title></circle>
+    <rect x="142.4" y="131.3" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="212.4" y="145.3" class="tooltip-text" text-anchor="middle">Jan 2022: 41 total (+34 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="222.6" y1="30" x2="222.6" y2="160.0" class="guide"/>
-    <circle cx="222.6" cy="157.1" r="16" class="hit"/>
-    <circle cx="222.6" cy="157.1" r="4" class="hover-dot"><title>Feb 2022: 44 total (+3 this month)</title></circle>
-    <rect x="152.6" y="131.1" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="222.6" y="145.1" class="tooltip-text" text-anchor="middle">Feb 2022: 44 total (+3 this month)</text>
+    <line x1="222.5" y1="30" x2="222.5" y2="160.0" class="guide"/>
+    <circle cx="222.5" cy="157.1" r="16" class="hit"/>
+    <circle cx="222.5" cy="157.1" r="4" class="hover-dot"><title>Feb 2022: 44 total (+3 this month)</title></circle>
+    <rect x="152.5" y="131.1" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="222.5" y="145.1" class="tooltip-text" text-anchor="middle">Feb 2022: 44 total (+3 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="284.6" y1="30" x2="284.6" y2="160.0" class="guide"/>
-    <circle cx="284.6" cy="155.8" r="16" class="hit"/>
-    <circle cx="284.6" cy="155.8" r="4" class="hover-dot"><title>Jul 2022: 65 total (+21 this month)</title></circle>
-    <rect x="214.6" y="129.8" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="284.6" y="143.8" class="tooltip-text" text-anchor="middle">Jul 2022: 65 total (+21 this month)</text>
+    <line x1="284.5" y1="30" x2="284.5" y2="160.0" class="guide"/>
+    <circle cx="284.5" cy="155.8" r="16" class="hit"/>
+    <circle cx="284.5" cy="155.8" r="4" class="hover-dot"><title>Jul 2022: 65 total (+21 this month)</title></circle>
+    <rect x="214.5" y="129.8" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="284.5" y="143.8" class="tooltip-text" text-anchor="middle">Jul 2022: 65 total (+21 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="292.4" y1="30" x2="292.4" y2="160.0" class="guide"/>
-    <circle cx="292.4" cy="153.4" r="16" class="hit"/>
-    <circle cx="292.4" cy="153.4" r="4" class="hover-dot"><title>Aug 2022: 101 total (+36 this month)</title></circle>
-    <rect x="222.4" y="127.4" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="292.4" y="141.4" class="tooltip-text" text-anchor="middle">Aug 2022: 101 total (+36 this month)</text>
+    <line x1="292.3" y1="30" x2="292.3" y2="160.0" class="guide"/>
+    <circle cx="292.3" cy="153.4" r="16" class="hit"/>
+    <circle cx="292.3" cy="153.4" r="4" class="hover-dot"><title>Aug 2022: 101 total (+36 this month)</title></circle>
+    <rect x="222.3" y="127.4" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="292.3" y="141.4" class="tooltip-text" text-anchor="middle">Aug 2022: 101 total (+36 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="308.4" y1="30" x2="308.4" y2="160.0" class="guide"/>
-    <circle cx="308.4" cy="153.0" r="16" class="hit"/>
-    <circle cx="308.4" cy="153.0" r="4" class="hover-dot"><title>Sep 2022: 108 total (+7 this month)</title></circle>
-    <rect x="238.4" y="127.0" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="308.4" y="141.0" class="tooltip-text" text-anchor="middle">Sep 2022: 108 total (+7 this month)</text>
+    <line x1="308.3" y1="30" x2="308.3" y2="160.0" class="guide"/>
+    <circle cx="308.3" cy="153.0" r="16" class="hit"/>
+    <circle cx="308.3" cy="153.0" r="4" class="hover-dot"><title>Sep 2022: 108 total (+7 this month)</title></circle>
+    <rect x="238.3" y="127.0" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="308.3" y="141.0" class="tooltip-text" text-anchor="middle">Sep 2022: 108 total (+7 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="320.1" y1="30" x2="320.1" y2="160.0" class="guide"/>
-    <circle cx="320.1" cy="151.7" r="16" class="hit"/>
-    <circle cx="320.1" cy="151.7" r="4" class="hover-dot"><title>Oct 2022: 128 total (+20 this month)</title></circle>
-    <rect x="250.1" y="125.7" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="320.1" y="139.7" class="tooltip-text" text-anchor="middle">Oct 2022: 128 total (+20 this month)</text>
+    <line x1="320.0" y1="30" x2="320.0" y2="160.0" class="guide"/>
+    <circle cx="320.0" cy="151.7" r="16" class="hit"/>
+    <circle cx="320.0" cy="151.7" r="4" class="hover-dot"><title>Oct 2022: 128 total (+20 this month)</title></circle>
+    <rect x="250.0" y="125.7" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="320.0" y="139.7" class="tooltip-text" text-anchor="middle">Oct 2022: 128 total (+20 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="330.6" y1="30" x2="330.6" y2="160.0" class="guide"/>
-    <circle cx="330.6" cy="149.1" r="16" class="hit"/>
-    <circle cx="330.6" cy="149.1" r="4" class="hover-dot"><title>Nov 2022: 168 total (+40 this month)</title></circle>
-    <rect x="260.6" y="123.1" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="330.6" y="137.1" class="tooltip-text" text-anchor="middle">Nov 2022: 168 total (+40 this month)</text>
+    <line x1="330.5" y1="30" x2="330.5" y2="160.0" class="guide"/>
+    <circle cx="330.5" cy="149.1" r="16" class="hit"/>
+    <circle cx="330.5" cy="149.1" r="4" class="hover-dot"><title>Nov 2022: 168 total (+40 this month)</title></circle>
+    <rect x="260.5" y="123.1" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="330.5" y="137.1" class="tooltip-text" text-anchor="middle">Nov 2022: 168 total (+40 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="342.7" y1="30" x2="342.7" y2="160.0" class="guide"/>
-    <circle cx="342.7" cy="148.6" r="16" class="hit"/>
-    <circle cx="342.7" cy="148.6" r="4" class="hover-dot"><title>Dec 2022: 175 total (+7 this month)</title></circle>
-    <rect x="272.7" y="122.6" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="342.7" y="136.6" class="tooltip-text" text-anchor="middle">Dec 2022: 175 total (+7 this month)</text>
+    <line x1="342.6" y1="30" x2="342.6" y2="160.0" class="guide"/>
+    <circle cx="342.6" cy="148.6" r="16" class="hit"/>
+    <circle cx="342.6" cy="148.6" r="4" class="hover-dot"><title>Dec 2022: 175 total (+7 this month)</title></circle>
+    <rect x="272.6" y="122.6" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="342.6" y="136.6" class="tooltip-text" text-anchor="middle">Dec 2022: 175 total (+7 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="350.5" y1="30" x2="350.5" y2="160.0" class="guide"/>
-    <circle cx="350.5" cy="146.1" r="16" class="hit"/>
-    <circle cx="350.5" cy="146.1" r="4" class="hover-dot"><title>Jan 2023: 214 total (+39 this month)</title></circle>
-    <rect x="280.5" y="120.1" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="350.5" y="134.1" class="tooltip-text" text-anchor="middle">Jan 2023: 214 total (+39 this month)</text>
+    <line x1="350.4" y1="30" x2="350.4" y2="160.0" class="guide"/>
+    <circle cx="350.4" cy="146.1" r="16" class="hit"/>
+    <circle cx="350.4" cy="146.1" r="4" class="hover-dot"><title>Jan 2023: 214 total (+39 this month)</title></circle>
+    <rect x="280.4" y="120.1" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="350.4" y="134.1" class="tooltip-text" text-anchor="middle">Jan 2023: 214 total (+39 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="365.3" y1="30" x2="365.3" y2="160.0" class="guide"/>
-    <circle cx="365.3" cy="145.4" r="16" class="hit"/>
-    <circle cx="365.3" cy="145.4" r="4" class="hover-dot"><title>Feb 2023: 225 total (+11 this month)</title></circle>
-    <rect x="295.3" y="119.4" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="365.3" y="133.4" class="tooltip-text" text-anchor="middle">Feb 2023: 225 total (+11 this month)</text>
+    <line x1="365.2" y1="30" x2="365.2" y2="160.0" class="guide"/>
+    <circle cx="365.2" cy="145.4" r="16" class="hit"/>
+    <circle cx="365.2" cy="145.4" r="4" class="hover-dot"><title>Feb 2023: 225 total (+11 this month)</title></circle>
+    <rect x="295.2" y="119.4" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="365.2" y="133.4" class="tooltip-text" text-anchor="middle">Feb 2023: 225 total (+11 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="371.2" y1="30" x2="371.2" y2="160.0" class="guide"/>
-    <circle cx="371.2" cy="144.6" r="16" class="hit"/>
-    <circle cx="371.2" cy="144.6" r="4" class="hover-dot"><title>Mar 2023: 237 total (+12 this month)</title></circle>
-    <rect x="301.2" y="118.6" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="371.2" y="132.6" class="tooltip-text" text-anchor="middle">Mar 2023: 237 total (+12 this month)</text>
+    <line x1="371.0" y1="30" x2="371.0" y2="160.0" class="guide"/>
+    <circle cx="371.0" cy="144.6" r="16" class="hit"/>
+    <circle cx="371.0" cy="144.6" r="4" class="hover-dot"><title>Mar 2023: 237 total (+12 this month)</title></circle>
+    <rect x="301.0" y="118.6" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="371.0" y="132.6" class="tooltip-text" text-anchor="middle">Mar 2023: 237 total (+12 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="380.5" y1="30" x2="380.5" y2="160.0" class="guide"/>
-    <circle cx="380.5" cy="144.4" r="16" class="hit"/>
-    <circle cx="380.5" cy="144.4" r="4" class="hover-dot"><title>Apr 2023: 240 total (+3 this month)</title></circle>
-    <rect x="310.5" y="118.4" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="380.5" y="132.4" class="tooltip-text" text-anchor="middle">Apr 2023: 240 total (+3 this month)</text>
+    <line x1="380.4" y1="30" x2="380.4" y2="160.0" class="guide"/>
+    <circle cx="380.4" cy="144.4" r="16" class="hit"/>
+    <circle cx="380.4" cy="144.4" r="4" class="hover-dot"><title>Apr 2023: 240 total (+3 this month)</title></circle>
+    <rect x="310.4" y="118.4" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="380.4" y="132.4" class="tooltip-text" text-anchor="middle">Apr 2023: 240 total (+3 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="580.2" y1="30" x2="580.2" y2="160.0" class="guide"/>
-    <circle cx="580.2" cy="143.6" r="16" class="hit"/>
-    <circle cx="580.2" cy="143.6" r="4" class="hover-dot"><title>Aug 2024: 252 total (+12 this month)</title></circle>
-    <rect x="510.2" y="117.6" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="580.2" y="131.6" class="tooltip-text" text-anchor="middle">Aug 2024: 252 total (+12 this month)</text>
+    <line x1="579.9" y1="30" x2="579.9" y2="160.0" class="guide"/>
+    <circle cx="579.9" cy="143.6" r="16" class="hit"/>
+    <circle cx="579.9" cy="143.6" r="4" class="hover-dot"><title>Aug 2024: 252 total (+12 this month)</title></circle>
+    <rect x="509.9" y="117.6" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="579.9" y="131.6" class="tooltip-text" text-anchor="middle">Aug 2024: 252 total (+12 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="591.1" y1="30" x2="591.1" y2="160.0" class="guide"/>
-    <circle cx="591.1" cy="143.6" r="16" class="hit"/>
-    <circle cx="591.1" cy="143.6" r="4" class="hover-dot"><title>Sep 2024: 253 total (+1 this month)</title></circle>
-    <rect x="521.1" y="117.6" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="591.1" y="131.6" class="tooltip-text" text-anchor="middle">Sep 2024: 253 total (+1 this month)</text>
+    <line x1="590.8" y1="30" x2="590.8" y2="160.0" class="guide"/>
+    <circle cx="590.8" cy="143.6" r="16" class="hit"/>
+    <circle cx="590.8" cy="143.6" r="4" class="hover-dot"><title>Sep 2024: 253 total (+1 this month)</title></circle>
+    <rect x="520.8" y="117.6" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="590.8" y="131.6" class="tooltip-text" text-anchor="middle">Sep 2024: 253 total (+1 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="604.0" y1="30" x2="604.0" y2="160.0" class="guide"/>
-    <circle cx="604.0" cy="143.0" r="16" class="hit"/>
-    <circle cx="604.0" cy="143.0" r="4" class="hover-dot"><title>Oct 2024: 261 total (+8 this month)</title></circle>
-    <rect x="534.0" y="117.0" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="604.0" y="131.0" class="tooltip-text" text-anchor="middle">Oct 2024: 261 total (+8 this month)</text>
+    <line x1="603.7" y1="30" x2="603.7" y2="160.0" class="guide"/>
+    <circle cx="603.7" cy="143.0" r="16" class="hit"/>
+    <circle cx="603.7" cy="143.0" r="4" class="hover-dot"><title>Oct 2024: 261 total (+8 this month)</title></circle>
+    <rect x="533.7" y="117.0" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="603.7" y="131.0" class="tooltip-text" text-anchor="middle">Oct 2024: 261 total (+8 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="637.5" y1="30" x2="637.5" y2="160.0" class="guide"/>
-    <circle cx="637.5" cy="142.4" r="16" class="hit"/>
-    <circle cx="637.5" cy="142.4" r="4" class="hover-dot"><title>Jan 2025: 270 total (+9 this month)</title></circle>
-    <rect x="567.5" y="116.4" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="637.5" y="130.4" class="tooltip-text" text-anchor="middle">Jan 2025: 270 total (+9 this month)</text>
+    <line x1="637.2" y1="30" x2="637.2" y2="160.0" class="guide"/>
+    <circle cx="637.2" cy="142.4" r="16" class="hit"/>
+    <circle cx="637.2" cy="142.4" r="4" class="hover-dot"><title>Jan 2025: 270 total (+9 this month)</title></circle>
+    <rect x="567.2" y="116.4" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="637.2" y="130.4" class="tooltip-text" text-anchor="middle">Jan 2025: 270 total (+9 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="643.0" y1="30" x2="643.0" y2="160.0" class="guide"/>
-    <circle cx="643.0" cy="142.3" r="16" class="hit"/>
-    <circle cx="643.0" cy="142.3" r="4" class="hover-dot"><title>Feb 2025: 272 total (+2 this month)</title></circle>
-    <rect x="573.0" y="116.3" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="643.0" y="130.3" class="tooltip-text" text-anchor="middle">Feb 2025: 272 total (+2 this month)</text>
+    <line x1="642.7" y1="30" x2="642.7" y2="160.0" class="guide"/>
+    <circle cx="642.7" cy="142.3" r="16" class="hit"/>
+    <circle cx="642.7" cy="142.3" r="4" class="hover-dot"><title>Feb 2025: 272 total (+2 this month)</title></circle>
+    <rect x="572.7" y="116.3" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="642.7" y="130.3" class="tooltip-text" text-anchor="middle">Feb 2025: 272 total (+2 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="662.9" y1="30" x2="662.9" y2="160.0" class="guide"/>
-    <circle cx="662.9" cy="140.9" r="16" class="hit"/>
-    <circle cx="662.9" cy="140.9" r="4" class="hover-dot"><title>Mar 2025: 294 total (+22 this month)</title></circle>
-    <rect x="592.9" y="114.9" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="662.9" y="128.9" class="tooltip-text" text-anchor="middle">Mar 2025: 294 total (+22 this month)</text>
+    <line x1="662.5" y1="30" x2="662.5" y2="160.0" class="guide"/>
+    <circle cx="662.5" cy="140.9" r="16" class="hit"/>
+    <circle cx="662.5" cy="140.9" r="4" class="hover-dot"><title>Mar 2025: 294 total (+22 this month)</title></circle>
+    <rect x="592.5" y="114.9" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="662.5" y="128.9" class="tooltip-text" text-anchor="middle">Mar 2025: 294 total (+22 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="676.1" y1="30" x2="676.1" y2="160.0" class="guide"/>
-    <circle cx="676.1" cy="137.2" r="16" class="hit"/>
-    <circle cx="676.1" cy="137.2" r="4" class="hover-dot"><title>Apr 2025: 351 total (+57 this month)</title></circle>
-    <rect x="606.1" y="111.2" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="676.1" y="125.2" class="tooltip-text" text-anchor="middle">Apr 2025: 351 total (+57 this month)</text>
+    <line x1="675.8" y1="30" x2="675.8" y2="160.0" class="guide"/>
+    <circle cx="675.8" cy="137.2" r="16" class="hit"/>
+    <circle cx="675.8" cy="137.2" r="4" class="hover-dot"><title>Apr 2025: 351 total (+57 this month)</title></circle>
+    <rect x="605.8" y="111.2" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="675.8" y="125.2" class="tooltip-text" text-anchor="middle">Apr 2025: 351 total (+57 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="683.5" y1="30" x2="683.5" y2="160.0" class="guide"/>
-    <circle cx="683.5" cy="133.5" r="16" class="hit"/>
-    <circle cx="683.5" cy="133.5" r="4" class="hover-dot"><title>May 2025: 408 total (+57 this month)</title></circle>
-    <rect x="613.5" y="107.5" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="683.5" y="121.5" class="tooltip-text" text-anchor="middle">May 2025: 408 total (+57 this month)</text>
+    <line x1="683.2" y1="30" x2="683.2" y2="160.0" class="guide"/>
+    <circle cx="683.2" cy="133.5" r="16" class="hit"/>
+    <circle cx="683.2" cy="133.5" r="4" class="hover-dot"><title>May 2025: 408 total (+57 this month)</title></circle>
+    <rect x="613.2" y="107.5" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="683.2" y="121.5" class="tooltip-text" text-anchor="middle">May 2025: 408 total (+57 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="698.3" y1="30" x2="698.3" y2="160.0" class="guide"/>
-    <circle cx="698.3" cy="132.4" r="16" class="hit"/>
-    <circle cx="698.3" cy="132.4" r="4" class="hover-dot"><title>Jun 2025: 424 total (+16 this month)</title></circle>
-    <rect x="628.3" y="106.4" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="698.3" y="120.4" class="tooltip-text" text-anchor="middle">Jun 2025: 424 total (+16 this month)</text>
+    <line x1="698.0" y1="30" x2="698.0" y2="160.0" class="guide"/>
+    <circle cx="698.0" cy="132.4" r="16" class="hit"/>
+    <circle cx="698.0" cy="132.4" r="4" class="hover-dot"><title>Jun 2025: 424 total (+16 this month)</title></circle>
+    <rect x="628.0" y="106.4" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="698.0" y="120.4" class="tooltip-text" text-anchor="middle">Jun 2025: 424 total (+16 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="712.0" y1="30" x2="712.0" y2="160.0" class="guide"/>
-    <circle cx="712.0" cy="131.9" r="16" class="hit"/>
-    <circle cx="712.0" cy="131.9" r="4" class="hover-dot"><title>Jul 2025: 432 total (+8 this month)</title></circle>
-    <rect x="642.0" y="105.9" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="712.0" y="119.9" class="tooltip-text" text-anchor="middle">Jul 2025: 432 total (+8 this month)</text>
+    <line x1="711.7" y1="30" x2="711.7" y2="160.0" class="guide"/>
+    <circle cx="711.7" cy="131.9" r="16" class="hit"/>
+    <circle cx="711.7" cy="131.9" r="4" class="hover-dot"><title>Jul 2025: 432 total (+8 this month)</title></circle>
+    <rect x="641.7" y="105.9" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="711.7" y="119.9" class="tooltip-text" text-anchor="middle">Jul 2025: 432 total (+8 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="722.9" y1="30" x2="722.9" y2="160.0" class="guide"/>
-    <circle cx="722.9" cy="129.1" r="16" class="hit"/>
-    <circle cx="722.9" cy="129.1" r="4" class="hover-dot"><title>Aug 2025: 475 total (+43 this month)</title></circle>
-    <rect x="652.9" y="103.1" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="722.9" y="117.1" class="tooltip-text" text-anchor="middle">Aug 2025: 475 total (+43 this month)</text>
+    <line x1="722.6" y1="30" x2="722.6" y2="160.0" class="guide"/>
+    <circle cx="722.6" cy="129.1" r="16" class="hit"/>
+    <circle cx="722.6" cy="129.1" r="4" class="hover-dot"><title>Aug 2025: 475 total (+43 this month)</title></circle>
+    <rect x="652.6" y="103.1" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="722.6" y="117.1" class="tooltip-text" text-anchor="middle">Aug 2025: 475 total (+43 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="735.8" y1="30" x2="735.8" y2="160.0" class="guide"/>
-    <circle cx="735.8" cy="125.8" r="16" class="hit"/>
-    <circle cx="735.8" cy="125.8" r="4" class="hover-dot"><title>Sep 2025: 526 total (+51 this month)</title></circle>
-    <rect x="665.8" y="99.8" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="735.8" y="113.8" class="tooltip-text" text-anchor="middle">Sep 2025: 526 total (+51 this month)</text>
+    <line x1="735.4" y1="30" x2="735.4" y2="160.0" class="guide"/>
+    <circle cx="735.4" cy="125.8" r="16" class="hit"/>
+    <circle cx="735.4" cy="125.8" r="4" class="hover-dot"><title>Sep 2025: 526 total (+51 this month)</title></circle>
+    <rect x="665.4" y="99.8" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="735.4" y="113.8" class="tooltip-text" text-anchor="middle">Sep 2025: 526 total (+51 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="747.9" y1="30" x2="747.9" y2="160.0" class="guide"/>
-    <circle cx="747.9" cy="115.0" r="16" class="hit"/>
-    <circle cx="747.9" cy="115.0" r="4" class="hover-dot"><title>Oct 2025: 692 total (+166 this month)</title></circle>
-    <rect x="677.9" y="89.0" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="747.9" y="103.0" class="tooltip-text" text-anchor="middle">Oct 2025: 692 total (+166 this month)</text>
+    <line x1="747.5" y1="30" x2="747.5" y2="160.0" class="guide"/>
+    <circle cx="747.5" cy="115.0" r="16" class="hit"/>
+    <circle cx="747.5" cy="115.0" r="4" class="hover-dot"><title>Oct 2025: 692 total (+166 this month)</title></circle>
+    <rect x="677.5" y="89.0" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="747.5" y="103.0" class="tooltip-text" text-anchor="middle">Oct 2025: 692 total (+166 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="759.6" y1="30" x2="759.6" y2="160.0" class="guide"/>
-    <circle cx="759.6" cy="112.5" r="16" class="hit"/>
-    <circle cx="759.6" cy="112.5" r="4" class="hover-dot"><title>Nov 2025: 731 total (+39 this month)</title></circle>
-    <rect x="689.6" y="86.5" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="759.6" y="100.5" class="tooltip-text" text-anchor="middle">Nov 2025: 731 total (+39 this month)</text>
+    <line x1="759.2" y1="30" x2="759.2" y2="160.0" class="guide"/>
+    <circle cx="759.2" cy="112.5" r="16" class="hit"/>
+    <circle cx="759.2" cy="112.5" r="4" class="hover-dot"><title>Nov 2025: 731 total (+39 this month)</title></circle>
+    <rect x="689.2" y="86.5" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="759.2" y="100.5" class="tooltip-text" text-anchor="middle">Nov 2025: 731 total (+39 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="771.6" y1="30" x2="771.6" y2="160.0" class="guide"/>
-    <circle cx="771.6" cy="109.1" r="16" class="hit"/>
-    <circle cx="771.6" cy="109.1" r="4" class="hover-dot"><title>Dec 2025: 783 total (+52 this month)</title></circle>
-    <rect x="701.6" y="83.1" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="771.6" y="97.1" class="tooltip-text" text-anchor="middle">Dec 2025: 783 total (+52 this month)</text>
+    <line x1="771.3" y1="30" x2="771.3" y2="160.0" class="guide"/>
+    <circle cx="771.3" cy="109.1" r="16" class="hit"/>
+    <circle cx="771.3" cy="109.1" r="4" class="hover-dot"><title>Dec 2025: 783 total (+52 this month)</title></circle>
+    <rect x="701.3" y="83.1" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="771.3" y="97.1" class="tooltip-text" text-anchor="middle">Dec 2025: 783 total (+52 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="783.7" y1="30" x2="783.7" y2="160.0" class="guide"/>
-    <circle cx="783.7" cy="93.6" r="16" class="hit"/>
-    <circle cx="783.7" cy="93.6" r="4" class="hover-dot"><title>Jan 2026: 1,022 total (+239 this month)</title></circle>
-    <rect x="713.7" y="67.6" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="783.7" y="81.6" class="tooltip-text" text-anchor="middle">Jan 2026: 1,022 total (+239 this month)</text>
+    <line x1="783.4" y1="30" x2="783.4" y2="160.0" class="guide"/>
+    <circle cx="783.4" cy="93.6" r="16" class="hit"/>
+    <circle cx="783.4" cy="93.6" r="4" class="hover-dot"><title>Jan 2026: 1,022 total (+239 this month)</title></circle>
+    <rect x="713.4" y="67.6" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="783.4" y="81.6" class="tooltip-text" text-anchor="middle">Jan 2026: 1,022 total (+239 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="794.7" y1="30" x2="794.7" y2="160.0" class="guide"/>
-    <circle cx="794.7" cy="74.1" r="16" class="hit"/>
-    <circle cx="794.7" cy="74.1" r="4" class="hover-dot"><title>Feb 2026: 1,321 total (+299 this month)</title></circle>
-    <rect x="724.7" y="48.1" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="794.7" y="62.1" class="tooltip-text" text-anchor="middle">Feb 2026: 1,321 total (+299 this month)</text>
+    <line x1="794.3" y1="30" x2="794.3" y2="160.0" class="guide"/>
+    <circle cx="794.3" cy="74.1" r="16" class="hit"/>
+    <circle cx="794.3" cy="74.1" r="4" class="hover-dot"><title>Feb 2026: 1,321 total (+299 this month)</title></circle>
+    <rect x="724.3" y="48.1" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="794.3" y="62.1" class="tooltip-text" text-anchor="middle">Feb 2026: 1,321 total (+299 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="806.7" y1="30" x2="806.7" y2="160.0" class="guide"/>
-    <circle cx="806.7" cy="54.9" r="16" class="hit"/>
-    <circle cx="806.7" cy="54.9" r="4" class="hover-dot"><title>Mar 2026: 1,617 total (+296 this month)</title></circle>
-    <rect x="736.7" y="28.9" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="806.7" y="42.9" class="tooltip-text" text-anchor="middle">Mar 2026: 1,617 total (+296 this month)</text>
+    <line x1="806.4" y1="30" x2="806.4" y2="160.0" class="guide"/>
+    <circle cx="806.4" cy="54.9" r="16" class="hit"/>
+    <circle cx="806.4" cy="54.9" r="4" class="hover-dot"><title>Mar 2026: 1,617 total (+296 this month)</title></circle>
+    <rect x="736.4" y="28.9" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="806.4" y="42.9" class="tooltip-text" text-anchor="middle">Mar 2026: 1,617 total (+296 this month)</text>
   </g>
   <g class="hoverpoint">
-    <line x1="818.1" y1="30" x2="818.1" y2="160.0" class="guide"/>
-    <circle cx="818.1" cy="46.6" r="16" class="hit"/>
-    <circle cx="818.1" cy="46.6" r="4" class="hover-dot"><title>Apr 2026: 1,744 total (+127 this month)</title></circle>
-    <rect x="748.1" y="20.6" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="818.1" y="34.6" class="tooltip-text" text-anchor="middle">Apr 2026: 1,744 total (+127 this month)</text>
+    <line x1="817.7" y1="30" x2="817.7" y2="160.0" class="guide"/>
+    <circle cx="817.7" cy="46.6" r="16" class="hit"/>
+    <circle cx="817.7" cy="46.6" r="4" class="hover-dot"><title>Apr 2026: 1,744 total (+127 this month)</title></circle>
+    <rect x="747.7" y="20.6" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="817.7" y="34.6" class="tooltip-text" text-anchor="middle">Apr 2026: 1,744 total (+127 this month)</text>
   </g>
   <g class="hoverpoint">
     <line x1="820.0" y1="30" x2="820.0" y2="160.0" class="guide"/>
-    <circle cx="820.0" cy="45.5" r="16" class="hit"/>
-    <circle cx="820.0" cy="45.5" r="4" class="hover-dot"><title>May 2026: 1,762 total (+18 this month)</title></circle>
-    <rect x="750.0" y="19.5" width="140" height="20" rx="4" class="tooltip-bg"/>
-    <text x="820.0" y="33.5" class="tooltip-text" text-anchor="middle">May 2026: 1,762 total (+18 this month)</text>
+    <circle cx="820.0" cy="45.4" r="16" class="hit"/>
+    <circle cx="820.0" cy="45.4" r="4" class="hover-dot"><title>May 2026: 1,763 total (+19 this month)</title></circle>
+    <rect x="750.0" y="19.4" width="140" height="20" rx="4" class="tooltip-bg"/>
+    <text x="820.0" y="33.4" class="tooltip-text" text-anchor="middle">May 2026: 1,763 total (+19 this month)</text>
   </g>
 
-  <circle cx="820.0" cy="45.5" r="4" class="dot"/>
-  <text x="810.0" y="35.5" class="total">1,762</text>
+  <circle cx="820.0" cy="45.4" r="4" class="dot"/>
+  <text x="810.0" y="35.4" class="total">1,763</text>
 
 </svg>
