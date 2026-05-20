@@ -22,7 +22,7 @@
 
 ### Currently
 
-Engineering at **[anonmesh](https://x.com/anon0mesh)** — Solana mobile (Android + iOS via React Native), Arcium integration for encrypted compute, and content/BD on the side. Not actively looking, but open to good flexible, contract, or future-dated work — best path is `htfleischhacker@alaska.edu` or [a meeting](https://epicexcelsior.com/meet).
+Engineering at **[anonmesh](https://x.com/anon0mesh)** — Solana mobile (Android + iOS via React Native), Arcium integration for encrypted compute, and content/BD on the side. Open to contract-based or future-dated work, reach me at `htfleischhacker@alaska.edu` or [a meeting](https://epicexcelsior.com/meet).
 
 ### Shipped
 
