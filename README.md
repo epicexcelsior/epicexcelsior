@@ -1,6 +1,6 @@
 # Hunter Fleischhacker
 
-`solana engineer @ anonmesh · mobile + arcium · anchorage, AK · 61°N`
+`solana engineer @ anonmesh · mobile + arcium · anchorage, AK`
 
 [![Website](https://img.shields.io/badge/epicexcelsior.com-000?style=flat-square&logo=Safari&logoColor=white)](https://epicexcelsior.com)
 [![anonmesh](https://img.shields.io/badge/engineering_@anon0mesh-00ff88?style=flat-square&logo=solana&logoColor=000)](https://x.com/anon0mesh)
