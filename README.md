@@ -1,6 +1,6 @@
 # Hunter Fleischhacker
 
-`full-stack software, solana, and mobile engineer · anchorage, AK`
+`Full-stack software, Solana, and mobile engineer · Anchorage, Alaska (currently in Munich, Germany)`
 
 [![Website](https://img.shields.io/badge/epicexcelsior.com-000?style=flat-square&logo=Safari&logoColor=white)](https://epicexcelsior.com)
 [![anonmesh](https://img.shields.io/badge/engineering_@anon0mesh-00ff88?style=flat-square&logo=solana&logoColor=000)](https://x.com/anon0mesh)
@@ -10,21 +10,13 @@
 
 ---
 
-<a href="https://github.com/epicexcelsior">
-  <img src="https://ghchart.rshah.org/epicexcelsior" alt="GitHub contributions" width="100%" />
-</a>
-
-<a href="https://raw.githubusercontent.com/epicexcelsior/epicexcelsior/main/commits-graph.svg">
-  <img src="commits-graph.svg" alt="Cumulative commits" width="100%" />
-</a>
-
----
-
 ### Currently
 
-Engineering at **[anonmesh](https://x.com/anon0mesh)** — Solana mobile (Android + iOS via React Native), Arcium integration for encrypted compute, and content/BD on the side. Open to contract-based or future-dated work, reach me at `htfleischhacker@alaska.edu` or [a meeting](https://epicexcelsior.com/meet).
+Incoming engineering intern at [HeyCharge](https://www.heycharge.com/). Reach me at `htfleischhacker@alaska.edu` or [a meeting](https://epicexcelsior.com/meet).
 
 ### Shipped
+
+**[anonmesh](https://x.com/anon0mesh)** — Team member. Solana mobile (Android + iOS via React Native), Arcium integration for encrypted compute, and content/BD on the side.
 
 **[Monolith](https://github.com/epicexcelsior/monolith)** — Mobile 3D DeFi game on Solana. Players staked USDC to claim blocks in a shared tower; every block was a real position. Custom GLSL shaders, 650 instanced blocks at 60fps on mobile, Anchor on-chain, 320+ tests across mobile/server/on-chain. Shipped 2025.
 
@@ -66,25 +58,12 @@ Solana        Anchor · Arcium · Solana Mobile Wallet Adapter · Helius · @sol
 - **Jun 2025** — OnionDAO Hackathon Winner (Pls Give)
 - Eagle Scout · Stand With Crypto Alaska Chapter President · German C1
 
-<!--
-================================================================
-GitHub-side polish that can NOT be done via README edits.
-Run these manually in the GitHub UI:
+---
 
-[ ] Settings → Public profile → Name: change "Excelsior epicexcelsior 👨‍🍳" to "Hunter Fleischhacker"
-[ ] Settings → Public profile → remove the chef emoji from the name
-[ ] Settings → Public profile → Bio: set to:
-        solana dev · engineer @anon0mesh · mobile, arcium, content · anchorage 61°N
-[ ] Profile page → Customize your pins → pin these 6 repos in order:
-        1. monolith              (existing, public, has description)
-        2. anon0mesh             (existing, public — your anonmesh contribution surface)
-        3. epicexcelsior         (this profile README repo — itself a portfolio piece)
-        4. seeker-landing        (Seeker Eats landing — public)
-        5. agentic-ui            (recent public OSS-y experiment, good signal)
-        6. grid-sdk-cli          (Squads Grid SDK CLI — bite-sized OSS contribution)
-    Pinning these pushes the old Discord-bot forks and pg-frontend out of "Popular repositories"
-    so the first impression matches the work below.
+<a href="https://github.com/epicexcelsior">
+  <img src="https://ghchart.rshah.org/epicexcelsior" alt="GitHub contributions" width="100%" />
+</a>
 
-[ ] If anonmesh has a GitHub org, ask to appear as a public member — recruiter-visible social proof.
-================================================================
--->
+<a href="https://raw.githubusercontent.com/epicexcelsior/epicexcelsior/main/commits-graph.svg">
+  <img src="commits-graph.svg" alt="Cumulative commits" width="100%" />
+</a>
