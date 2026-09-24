@@ -1,7 +1,6 @@
 `Full-stack software, Solana, and mobile engineer · Anchorage, Alaska (currently in Munich, Germany)`
 
 [![Website](https://img.shields.io/badge/epicexcelsior.com-000?style=flat-square&logo=Safari&logoColor=white)](https://epicexcelsior.com)
-[![anonmesh](https://img.shields.io/badge/engineering_@anon0mesh-00ff88?style=flat-square&logo=solana&logoColor=000)](https://x.com/anon0mesh)
 [![Twitter](https://img.shields.io/badge/@excelhtf-000?style=flat-square&logo=x&logoColor=white)](https://x.com/excelhtf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/htfleischhacker)
 [![Resume](https://img.shields.io/badge/Resume-000?style=flat-square&logo=readdotcv&logoColor=white)](https://epicexcelsior.com/resume)
